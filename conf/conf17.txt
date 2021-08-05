@@ -1,0 +1,30 @@
+5
+masa0 2 10
+Daine 7
+Monika 4
+masa1 10 11
+Monica 9
+Jordon 6
+Brett 4
+Raymon 5
+Gale 1
+Yong 3
+Cammie 2
+Melda 8
+Tamar 1
+Timmy 10
+masa2 2 3
+Jon 8
+Mariah 9
+masa3 8 10
+Rashad 5
+Tomas 8
+Joannie 5
+Delmer 7
+Luigi 7
+Otis 10
+Jenell 7
+Olin 1
+masa4 2 3
+Ernie 3
+Nicolas 7

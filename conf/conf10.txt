@@ -1,0 +1,192 @@
+30
+masa0 7 11
+Benny 38
+Adalberto 20
+Anne 41
+Malcolm 51
+Brant 19
+Melody 50
+Samuel 20
+masa1 5 7
+Penni 22
+Kellie 10
+Harriette 37
+Lady 51
+Cleveland 34
+masa2 7 8
+Lashonda 7
+Charlie 3
+Delila 5
+Ashli 4
+Gregorio 9
+Burl 11
+Nicholas 33
+masa3 6 8
+Wilson 5
+Jordon 16
+Terica 32
+Jere 17
+Hunter 23
+Jeffry 38
+masa4 7 9
+Jacklyn 11
+Fausto 51
+Marissa 23
+Morris 45
+Aldo 9
+Claudio 37
+Jewel 26
+masa5 3 9
+Kelly 19
+Bertram 11
+Gary 30
+masa6 4 10
+Tera 6
+Rita 9
+Bradley 50
+Eulah 5
+masa7 3 8
+Toya 12
+Gaylord 49
+Lakenya 12
+masa8 6 12
+Nathaniel 13
+Lianne 27
+Shannon 50
+Emmaline 49
+Joie 21
+Marshall 37
+masa9 4 7
+Gabriele 10
+Gala 31
+Bill 48
+Dillon 35
+masa10 6 12
+Ahmad 10
+Delmer 47
+Elmer 11
+Dimple 51
+Matthew 15
+Walker 33
+masa11 6 12
+Asa 19
+Vernice 6
+Elida 29
+Jayson 33
+Weldon 32
+Dallas 30
+masa12 5 9
+Zachery 5
+Russel 20
+Kristen 51
+Rufus 25
+Andy 23
+masa13 4 8
+Bobbi 31
+Lynda 21
+Latasha 34
+Aline 31
+masa14 5 12
+Marcellus 34
+Charlsie 28
+Pei 22
+Jay 38
+Angel 13
+masa15 5 10
+Mechelle 41
+Paulina 38
+Milda 39
+Soraya 39
+Vicente 39
+masa16 4 12
+Fidel 14
+Alfonso 43
+Delena 15
+Abram 6
+masa17 7 10
+Berna 6
+Alex 15
+Arnulfo 26
+Jerome 44
+Kurt 15
+Carrol 20
+Forest 49
+masa18 6 9
+Alpha 13
+Nedra 9
+Nanci 46
+Elane 4
+Lisbeth 39
+Ashley 24
+masa19 3 11
+Alane 33
+Twyla 7
+Gwendolyn 23
+masa20 7 11
+Granville 6
+Evelyn 29
+Emmitt 39
+Darleen 4
+Eryn 29
+Avery 21
+Shasta 30
+masa21 4 10
+Raisa 39
+Caroline 18
+Santiago 50
+Lizeth 27
+masa22 7 8
+Manual 12
+Leopoldo 28
+Sharyl 18
+Millie 10
+Ronald 42
+Edmund 6
+Leif 25
+masa23 7 10
+Nelly 12
+Gilbert 45
+Shanti 36
+Alva 38
+Man 14
+Burt 44
+Darrel 31
+masa24 4 9
+Melisa 18
+Edda 49
+Arie 9
+Lesley 23
+masa25 5 7
+Shelley 20
+Leland 3
+Ariana 44
+Tabitha 30
+Niki 39
+masa26 6 11
+Versie 12
+Ivy 14
+Efrain 23
+Jon 24
+Edison 42
+Cortez 50
+masa27 6 12
+Aimee 39
+Keven 7
+Hugo 22
+Lenard 47
+Margaretta 47
+Sherill 6
+masa28 5 7
+Jesus 27
+Bart 13
+Hal 28
+Arminda 45
+Parker 30
+masa29 7 11
+Willian 3
+Demetrius 17
+Derrick 4
+Josiah 6
+Walton 19
+Phillip 9
+Kathlyn 20

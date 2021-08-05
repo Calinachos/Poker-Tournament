@@ -1,0 +1,63 @@
+		Functia 1: Creeare Sala
+	Citesc numarul de mese si initializez nrLocMax, nrLocCrt si pun NULL pe pointerul catre lista de mese
+	Creez lista de mese independenta
+	Pentru fiecare masa din sala creez celula in aux_masa
+	in Pmasa pun informtia despre masa
+	actualizez numarul de jucatori si nr max de jucatori din sala
+	creez lista de jucatori
+	pentru fiecare jucator aloc celula noua aux_jucator pe care il pun in lista
+	adaug lista de jucatori creata in pmasa->jucatori
+	apoi adaug masa in lista de mese
+
+
+		Functia Print:
+	Parcurg lista de mese si pentru fiecare masa parcurg si afisez lista de jucatori
+	In caz ca nu mai am mese adaug mesaj
+
+		
+		FUnctia Noroc:
+	in verif1 am pastrata masa, in verif2 am pastrat jucatorul, cu cele 2 variabile parcurg lista de masa si lista de jucatori
+	daca masa sau jucatorul nu exista adaug mesaj, daca totul este bine cresc mainile
+
+
+		Functia Ghinion:
+	identica cu functia Noroc, doar ca aici sunt atenta sa elimin jucatorul, respectiv masa daca mainile sunt negative, respectiv daca toti jucatorii mesei au maini negative
+	in ant si antmasa pastret jucatorul, respectiv masa anterioara astfel incat sa pot reface legaturile in cazul eliminarii
+
+
+		FUnctia Tura:
+	primul jucator devine ultimul astfel:
+	mai intai verific daca masa exista, caz in care continui sa fac mutarea(rotatia)
+	pastrez santinela in 'santinela'
+	folosesc un for prin care parcurg lista pentru a gasi ultimul jucator si il inserez pe primul dupa ultimul
+	printr-un alt for parcurg lista si scad numarul de maini
+	in cauzul in care cineva nu mai are maini il elimin de la masa, iar in cazul in care masa nu mai are jucatori o elimin si pe ea
+
+
+		Tura_completa
+	parcurg lista de mese si si aplic tura pentru fiecare masa
+	P.S.: acum realizez ca puteam apela functia tura...
+
+
+		Functia Clasament
+	verific daca masa care mi a fost data exista, apoi continui sa fac clasamentul
+	creez o lista noua, fara santinela in care pun jucatorii in mod ordonat
+	prima data pun primul jucator in lista noua, apoi intr un for ii pun si pe ceilalti
+	lista mea este ordonata descrescator, deci eu trebuie sa caut in lista noua un jucator care are un numar de maini mai mic decat cel pe care doresc sa il inserez; daca gasesc voi insera inaintea lui, daca nu gasesc inseamna ca voi insera la sfarsit
+	de fiecare data cand vreau sa inserez un nou jucator il voi compara cu k jucatori deja pusi;
+	daca numarul de maini este egal compar numele jucatorilor pana gasesc unul "mai mic" si voi insera inaintea lui, daca nu gasesc oi insera dupa el
+	dupa ce am facut lista o voi afisa
+
+
+		Functia inchide
+	verific daca exista masa si ulterior daca am locuri in sala, adica daca nr max din sala -nr curent de jucatori din sala - nr max de jucatori din masa pe care o inchid este maimare decat nr de jucatori din sala mea
+	tin minte in variabila nrmutari cati jucatori am de mutat
+	parcurg mesele si inserez pana cand sunt pline de jucatori sau pana cand am facut nrmutari de mutari
+	inserez mereu la sfarsit deci parcurg un vector pentru a pastra ultimul jucator
+	dupa fiecare mutare am grija sa actualizez nr de jucatori, desi acum realizez ca nu era nevoie sa fac asta si la masa ce urmeaza sa fie stearsa;
+	acum elimin masa DOAR DACA sunt in cazul in care aveam loc s fac redistribuirea si am facut-o
+
+	PS: pe vmchecker nu imi da punctaj deloc, dar cu checkerul local primesc 73 de puncte daca rulez o data, dar dupa aceea imi da de fiecare data 88 (nu stiu de ce)
+	
+	  
+

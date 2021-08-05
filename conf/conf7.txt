@@ -1,0 +1,43 @@
+7
+masa0 5 11
+Pat 29
+Twyla 10
+Alverta 21
+Bobbie 17
+Danuta 37
+masa1 5 9
+Heidi 9
+Mack 16
+Vincenzo 42
+Camellia 28
+Ashley 36
+masa2 7 9
+Harley 24
+Edmund 51
+King 19
+Cecile 42
+Nickole 13
+Natacha 15
+Maile 24
+masa3 7 8
+Kristeen 6
+Brianne 39
+Joaquin 15
+Joaquina 18
+Devin 20
+Jerome 17
+Eduardo 13
+masa4 5 12
+Luis 24
+Claudine 23
+Jacquie 8
+Jorge 22
+Evelyn 48
+masa5 2 9
+Maile 27
+Alfonso 42
+masa6 4 7
+Antwan 40
+Numbers 37
+Rikki 4
+Virgil 41

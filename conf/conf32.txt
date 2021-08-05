@@ -1,0 +1,206 @@
+30
+masa0 10 18
+Natosha 41
+Nicholas 41
+Tiffiny 47
+Jordon 43
+Nicolas 46
+Kelly 47
+Jerrold 41
+Gennie 47
+Brant 46
+Ronald 51
+masa1 7 12
+Benny 41
+Lesa 47
+Joi 48
+Numbers 51
+Ken 44
+Niki 45
+Ashli 45
+masa2 4 19
+Madlyn 51
+Reanna 51
+Shanti 43
+Nicholle 49
+masa3 3 11
+Luigi 41
+Bernice 48
+Burt 41
+masa4 9 15
+Zachary 49
+Adeline 50
+Isidro 45
+Jere 45
+Tamar 46
+Alfonso 50
+Bud 48
+Nery 51
+Madelaine 49
+masa5 6 14
+Lenard 48
+Trudie 51
+Gilbert 51
+Mao 49
+Vivien 44
+Jong 45
+masa6 4 18
+Tyson 49
+John 44
+Stasia 49
+Hunter 44
+masa7 9 17
+Emmaline 51
+Gretta 42
+Les 47
+Filomena 45
+Versie 50
+Rodolfo 43
+Reyes 46
+Nadia 51
+Tabitha 49
+masa8 5 12
+Madison 44
+Ailene 50
+Cuc 45
+Alverta 46
+Herman 41
+masa9 6 20
+Lakiesha 51
+Buena 46
+Mario 51
+Raymond 48
+Olin 45
+Ramiro 43
+masa10 2 15
+Shin 50
+Lady 41
+masa11 4 12
+Aline 44
+Devon 41
+Lachelle 50
+Tomas 45
+masa12 2 14
+Mikel 43
+Teodoro 48
+masa13 8 10
+Amalia 44
+Eli 47
+Callie 41
+Elane 46
+Kaylene 41
+Malka 48
+Danette 51
+Charlsie 43
+masa14 7 14
+Millie 47
+Edmund 41
+Edward 48
+Letty 43
+Cecily 41
+Jacquie 42
+Efren 48
+masa15 10 14
+Shawana 48
+Raymon 41
+Lino 44
+Willy 43
+Percy 48
+Joaquin 50
+Juli 47
+Eneida 44
+Asa 42
+Avery 42
+masa16 2 13
+Dillon 42
+Corey 42
+masa17 5 17
+Harley 44
+Margery 44
+Tamala 43
+Chi 51
+Adalberto 46
+masa18 6 16
+Noel 47
+Maple 48
+Flo 47
+Jose 42
+Emile 51
+Earle 45
+masa19 6 11
+Gaylord 50
+Elinore 50
+Reinaldo 44
+Leslie 48
+Hal 48
+Belkis 42
+masa20 3 16
+Delila 47
+Maritza 48
+Dimple 44
+masa21 2 20
+Cedric 47
+Gayle 51
+masa22 8 20
+Donte 44
+Ashley 43
+Soraya 50
+Darrel 46
+Kayce 43
+Phuong 44
+Lashonda 44
+Eddie 45
+masa23 8 18
+Hayden 49
+Jeffry 41
+Jared 49
+Karl 44
+Delena 49
+Daysi 45
+Jarrett 48
+Saul 48
+masa24 9 15
+Norbert 50
+Ninfa 45
+Edison 41
+Warren 50
+Johnnie 48
+Arminda 42
+Derrick 41
+Geri 44
+Joanna 47
+masa25 8 20
+Tyree 44
+Elsie 47
+Toya 50
+Yuonne 44
+Joie 49
+Bill 50
+Tobie 44
+Loura 51
+masa26 6 17
+Ira 43
+Porfirio 43
+Lawrence 43
+Alva 43
+Aisha 50
+Stuart 46
+masa27 8 14
+Thad 45
+Francisca 48
+Philip 43
+Saturnina 46
+Kiley 49
+Gale 45
+Janyce 46
+Keith 50
+masa28 5 19
+Roland 48
+Vincenzo 42
+Norene 41
+Rosa 44
+Lizeth 50
+masa29 3 16
+Elmer 49
+Raisa 46
+Natacha 50

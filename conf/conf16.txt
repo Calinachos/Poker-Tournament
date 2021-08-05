@@ -1,0 +1,529 @@
+70
+masa0 10 12
+Tamara 37
+Nicolas 8
+Shannon 40
+Yuonne 19
+Adalberto 49
+Wiley 15
+Vannesa 41
+Nicholas 31
+Elinore 38
+Bill 49
+masa1 4 19
+Joaquina 15
+Matilda 50
+Clarinda 3
+Burt 42
+masa2 10 12
+Shelley 44
+Lawerence 16
+Efren 33
+Raymond 21
+Tobias 30
+Shin 50
+Keith 35
+Jackelyn 11
+Echo 22
+Carmina 46
+masa3 8 10
+Nina 40
+Bertram 22
+Ahmad 26
+Mao 18
+Daine 46
+Lavona 25
+Kemberly 35
+Edmundo 35
+masa4 9 19
+Helena 13
+Sherri 35
+Judy 11
+Avery 27
+Oswaldo 25
+Abram 21
+Jere 28
+Demetrius 49
+Barney 37
+masa5 7 19
+Brigette 15
+Harold 44
+Emilio 23
+Omer 41
+Virgil 10
+Geralyn 11
+Millie 27
+masa6 6 13
+Janett 28
+Consuela 13
+Cecile 3
+Shawn 37
+Jacquie 49
+Josiah 28
+masa7 3 20
+Monika 32
+Dana 8
+Alane 20
+masa8 3 15
+Carrol 7
+Mirna 13
+Alesia 5
+masa9 3 12
+Kiley 43
+Danuta 41
+Shakia 17
+masa10 7 13
+Mac 38
+Ernie 22
+Gary 38
+Percy 15
+Mariann 46
+Collin 9
+Farrah 19
+masa11 7 18
+Nanci 35
+Ariana 34
+Kurtis 5
+Rashad 20
+Thaddeus 32
+Herman 31
+Duane 34
+masa12 5 18
+Leland 42
+Dwana 18
+Jorge 47
+Catarina 30
+Johnny 37
+masa13 4 13
+Tera 28
+Emiko 43
+Jamee 22
+Lydia 9
+masa14 7 18
+Jose 25
+Niki 38
+Margery 14
+Elida 20
+Giuseppe 3
+Letty 41
+Dimple 36
+masa15 3 12
+Leopoldo 44
+Sophie 8
+Ozie 8
+masa16 10 15
+Chi 15
+Vicky 9
+Wilson 39
+Milan 43
+Eddie 6
+Edmund 38
+Gayle 22
+Sammie 27
+Mary 3
+Evelia 6
+masa17 4 10
+Juli 35
+Minh 20
+Lenard 35
+Mikel 47
+masa18 7 12
+Wilmer 3
+Janae 50
+Mai 35
+Madelaine 42
+Kamilah 41
+Stephanie 43
+Elizebeth 28
+masa19 10 11
+Penni 14
+Paulina 21
+Fidel 7
+Candance 30
+Isidro 21
+Kandis 38
+Parker 14
+Loura 10
+Jerrold 23
+Joi 30
+masa20 10 12
+Malcolm 8
+Derrick 17
+Philip 24
+Merna 46
+Valentin 13
+Milda 31
+Sang 7
+Thurman 22
+Santo 35
+Lashonda 21
+masa21 9 15
+Fausto 19
+Preston 35
+Danial 50
+Takako 9
+Soraya 29
+Farah 27
+Milo 20
+Elvina 22
+Livia 44
+masa22 8 10
+Alonso 18
+Willian 32
+Tamar 20
+Les 19
+Edward 10
+Maris 11
+Gregory 7
+Sharleen 25
+masa23 10 13
+Zachery 28
+Jay 50
+Samuel 33
+Thomas 15
+Porfirio 33
+Emery 4
+Reinaldo 49
+Randal 26
+Berna 47
+Jacquline 42
+masa24 5 13
+Marcellus 38
+Edda 47
+Gilbert 37
+Lizeth 14
+Johnnie 13
+masa25 6 16
+Jung 17
+Terica 43
+Delmer 43
+Cicely 45
+Rodrick 43
+Concetta 41
+masa26 5 10
+Bruce 23
+Natacha 18
+Kalyn 48
+Shaquana 4
+Jacklyn 40
+masa27 9 12
+Elvin 37
+Jeni 46
+Tamala 17
+Ulysses 31
+Janean 30
+Shad 37
+Darrel 36
+Burl 40
+Cleo 7
+masa28 7 14
+Bettye 37
+Kathlyn 12
+Saul 4
+Willy 11
+Filiberto 19
+Luigi 20
+Jenell 10
+masa29 10 19
+Riley 12
+Norbert 11
+Conchita 16
+Nona 10
+Concepcion 45
+Cecily 25
+Bobbie 37
+Hubert 44
+Bradley 6
+Nicki 13
+masa30 4 14
+Darren 45
+Marcelo 18
+Jesse 8
+Charlie 4
+masa31 7 19
+Harriette 8
+Eboni 18
+Mervin 3
+Antwan 27
+Elsie 38
+Val 5
+Elizabeth 29
+masa32 8 11
+Brianne 36
+Gwendolyn 11
+Pauline 10
+Vicente 40
+Denver 4
+Elmer 6
+Caroline 21
+Levi 38
+masa33 7 17
+Phuong 25
+Matthew 35
+Janyce 10
+Shawana 31
+Herb 48
+King 16
+Lisbeth 36
+masa34 9 11
+Joanna 38
+Tabitha 43
+Sydney 51
+Camellia 11
+Jeannie 35
+Charlyn 9
+Melvin 51
+Marguerite 27
+Lakesha 32
+masa35 5 12
+Johnette 29
+Lyla 38
+Nery 16
+Forest 43
+Nicholle 28
+masa36 6 17
+Amalia 18
+Amos 8
+Yan 26
+Theodora 34
+Aldo 27
+Collette 42
+masa37 4 13
+Michiko 34
+Luciano 44
+Versie 31
+Troy 34
+masa38 10 18
+Nickole 10
+Dixie 24
+Hassan 50
+Lynette 7
+Arnold 21
+Sonia 40
+Randall 13
+Dannie 7
+Evelyn 31
+Jeffrey 7
+masa39 4 15
+Timmy 35
+Josie 19
+Gus 32
+Ashley 7
+masa40 7 19
+Madlyn 21
+Manual 29
+Eryn 9
+Jada 9
+Pearlene 4
+Reita 4
+Kaylene 38
+masa41 9 16
+Adrien 44
+Cleveland 9
+Daysi 22
+Ronald 8
+Brett 25
+Tyson 24
+Filomena 8
+Gaylord 4
+Dallas 11
+masa42 4 17
+Babette 32
+Kristen 46
+Sherika 39
+Dillon 30
+masa43 10 16
+Howard 50
+Gabriele 11
+Elden 51
+Bernice 38
+Kayce 8
+Dessie 43
+Lanora 11
+Gertrudis 27
+Rodolfo 37
+Jaunita 49
+masa44 6 12
+Coreen 30
+Myrtle 50
+Christy 48
+Sterling 25
+Ellsworth 8
+Dion 37
+masa45 3 15
+Arie 3
+Jason 30
+Lizzie 19
+masa46 3 14
+Raymon 33
+Eduardo 16
+Mack 24
+masa47 9 15
+Arturo 13
+Earl 12
+Tobie 19
+Pam 50
+Melynda 21
+Cecelia 9
+Geri 25
+Madison 47
+Evelyne 4
+masa48 5 20
+Delena 24
+Claudio 13
+Flo 30
+Granville 24
+Margaretta 13
+masa49 6 18
+Marin 41
+Karl 6
+Veta 40
+Devon 28
+Staci 10
+Jermaine 34
+masa50 7 16
+Emmaline 45
+Lacey 39
+Alva 36
+Clifton 22
+Charley 25
+Malka 23
+Alpha 43
+masa51 6 20
+Nedra 44
+Gale 18
+Lucien 26
+Vincenzo 3
+Christeen 33
+Kendall 45
+masa52 6 12
+Trinity 42
+Lawrence 29
+Venus 25
+Grayce 10
+Johnathan 47
+Devin 46
+masa53 9 13
+Maple 37
+Wyatt 17
+Elena 5
+Sheryl 35
+Phillip 34
+Harley 36
+Sherly 6
+Vivien 10
+Rocco 5
+masa54 9 16
+Cythia 16
+Twila 37
+Efrain 29
+Gennie 42
+Dean 34
+Hettie 19
+Everett 12
+Arline 15
+Pei 18
+masa55 8 20
+Ricki 23
+Otto 28
+Linn 35
+Arleen 17
+Ciera 26
+Simon 12
+Reanna 4
+Lady 29
+masa56 5 13
+Ligia 14
+Cuc 24
+Jesus 16
+Joshua 34
+Brant 10
+masa57 3 15
+Stasia 18
+Ignacio 4
+Morton 21
+masa58 7 10
+Tonda 7
+Julietta 19
+Myles 30
+Oretha 51
+Arnulfo 49
+Keven 34
+Pat 33
+masa59 4 20
+Rosa 19
+Kourtney 29
+Hosea 31
+Lyndsey 15
+masa60 7 20
+Florentino 23
+Roland 32
+Tiffiny 42
+Ken 34
+Malia 15
+Delila 36
+Melody 30
+masa61 8 17
+Ninfa 5
+Emmitt 4
+Lakiesha 13
+Lianne 51
+Zachary 20
+Charlsie 9
+Rosaria 4
+Lesa 43
+masa62 8 13
+Gregorio 40
+Joaquin 34
+Hans 27
+Nathaniel 39
+Vernice 35
+Stan 9
+Andy 12
+Jayson 26
+masa63 8 15
+Warren 47
+Lawanda 16
+Colene 20
+Jong 23
+Anibal 46
+Joannie 20
+Walton 26
+Kerry 51
+masa64 3 14
+Norene 45
+Hugo 41
+Darryl 11
+masa65 5 10
+Nicol 37
+Zina 49
+Aisha 23
+Hal 43
+Kellie 34
+masa66 8 15
+Bobbi 43
+Karla 24
+Corey 45
+Jeanett 38
+Asa 27
+Donte 10
+Maryjane 36
+Horacio 18
+masa67 3 15
+Jeremiah 24
+Melda 30
+Lynn 6
+masa68 6 14
+Nana 41
+Angel 7
+Jewel 17
+Francisca 25
+Gala 36
+Ramiro 8
+masa69 6 13
+Rufus 36
+Jordan 40
+Vicki 3
+Jeffry 23
+Misha 13
+Cortez 40

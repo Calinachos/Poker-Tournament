@@ -1,0 +1,41 @@
+5
+masa0 6 17
+Jessica 44
+Emile 41
+Ellsworth 35
+Grayce 3
+Otis 4
+Les 13
+masa1 10 19
+Thomas 28
+Hans 11
+Gwendolyn 16
+Ricky 7
+Thurman 24
+Parker 45
+John 5
+Reyes 3
+Evelyn 22
+Shasta 31
+masa2 8 10
+Yan 3
+Kamilah 27
+Jesus 38
+Luigi 6
+Nelly 26
+Phillip 3
+Danette 22
+Antwan 16
+masa3 8 14
+Millie 4
+Zachary 20
+Darleen 51
+Hugo 31
+Mack 13
+Kiley 20
+Elena 4
+Virgil 46
+masa4 3 18
+Fausto 51
+Leopoldo 27
+Tuyet 28

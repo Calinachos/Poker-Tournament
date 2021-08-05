@@ -1,0 +1,28 @@
+5
+masa0 7 8
+Hassan 51
+Carina 13
+Phuong 12
+Barney 32
+Jacklyn 39
+Cammie 50
+Efren 36
+masa1 3 12
+Sherly 34
+Jada 12
+Duane 35
+masa2 4 9
+Monica 35
+Tamala 25
+Eboni 45
+Vannesa 19
+masa3 2 11
+Aldo 28
+Luciano 11
+masa4 6 8
+Marcellus 27
+Alonso 42
+Margaretta 27
+Melynda 16
+King 39
+Mikel 42
