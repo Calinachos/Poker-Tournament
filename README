@@ -21,7 +21,7 @@
 
 
 		Functia Ghinion:
-	identica cu functia Noroc, doar ca aici sunt atenta sa elimin jucatorul, respectiv masa daca mainile sunt negative, respectiv daca toti jucatorii mesei au maini negative
+	identica cu functia Noroc, doar ca aici sunt atent sa elimin jucatorul, respectiv masa daca mainile sunt negative, respectiv daca toti jucatorii mesei au maini negative
 	in ant si antmasa pastret jucatorul, respectiv masa anterioara astfel incat sa pot reface legaturile in cazul eliminarii
 
 
